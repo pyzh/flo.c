@@ -17,3 +17,7 @@ Q/A
 问：群号多少？
 对：q群=523445644，微信群+我/735151965
 ```
+
+alternative
+
+CLO = Chinese-like programmingLanuage Other_than c-style(such as c++,ada, python
