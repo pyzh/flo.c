@@ -24,7 +24,15 @@ Be careful not to fall off!
 
 世界是平的 = 真的 if 世界是平的？ else 假的
 
-if 世界是平的: 输出(语句)
+# if 世界是平的: 输出(语句)
+
+如果 = lambda x,是,否: 是 if x else 否
+
+略 = None # 省略-> pass
+若 = lambda 真,则: 则 if 真 else 略
+
+若 (世界是平的, 则=输出(语句)) # 注：不记得这句是不是真的能运行，感觉会报错。回头测试一下
+
   
 # -*- coding: encoding -*-
 
