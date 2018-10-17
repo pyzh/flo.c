@@ -2,7 +2,7 @@
 
 ### README, READ读, ME我。译→ 自述
 
-flo/c：一种通用教学代码/适用于类C编程语言
+flo/c：一种通用教学代码/适用于类C编程语言。右箭头[→] 读作 [为]
 > a universal teaching code for C-style programming language
 
 覆盖范围/小乘：py3, c#, rust, typescript, elixir
