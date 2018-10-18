@@ -1,4 +1,4 @@
-
+from js import *  # next: from js2 import *
 '''3.1.2. Strings
 >>> 'spam eggs'  # single quotes
 'spam eggs'
