@@ -23,3 +23,5 @@ alternative
 CLO = Chinese-like programmingLanuage Other_than c-style(such as c++,ada, python
 
 ## ClO: 学名=氧化氯
+
+### flo = FL in sinO, FL~fly~fluent/functional language
